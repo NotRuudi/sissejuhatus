@@ -1,0 +1,22 @@
+img {
+    width: 270px;
+    border: 5px solid black; 
+}
+* {
+  box-sizing: border-box;
+}
+.row {
+    display: flex;
+}
+.column {
+flex: 50%;
+padding: 10px;
+height: 300px;
+}
+body {background-color: #92a8d1;}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {font-size: 500%;font-family: fantasy;font-style: italic;color: hotpink;}
+h2 {font-size: 150%;font-family: cursive;}
+p, li, th, a {font-size: 125%;font-family:Arial, Helvetica, sans-serif;font-weight: 400;}
